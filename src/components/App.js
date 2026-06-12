@@ -33,10 +33,3 @@ function App() {
 
 export default App;
 
-/*
-
-BONUS: Allow users to hide hogs (not delete them, just hide them from view!)
-
-BONUS: Add a form to allow users to add new hogs to the page
-
-*/
